@@ -1,0 +1,10 @@
+Principais comandos utilizados para gerenciar o versionamento do codigo e publicar no repositorio remoto:
+
+git status
+git add
+git commit
+git push
+git checkout
+git merge
+git pull
+git remote
